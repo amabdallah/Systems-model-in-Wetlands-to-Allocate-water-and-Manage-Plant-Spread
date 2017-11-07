@@ -165,7 +165,7 @@ SWAMPS can provide to wetland manager an alternative tool to measure wetland per
 * Hydrological and ecological changes over time (video below)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ZiqBfp_Bl74
-" target="_blank"><img src="http://img.youtube.com/vi/ZiqBfp_Bl74/0.jpg" 
+" target="_blank"><img src="https://wamdamproject.github.io/WaMDaM_Information_Model/diagrams/01_WaMDaM.html" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 [25 managed wetland units]:http://www.oalminagorta.cu.cc/WetlandUnitsMap.html
